@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+langchain-community
+langchain-core
+langchain-milvus
+langchain-text-splitters
+pymilvus
+openai
+dashscope
