@@ -165,7 +165,7 @@ def upload_file():
                 data.append({
                     "text": text,
                     "name": filename,
-                    "embedding": vector
+                    "vector": vector
                 })
 
             # 插入 Milvus
